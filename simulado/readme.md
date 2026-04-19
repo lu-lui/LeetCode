@@ -27,7 +27,7 @@ Explicação: "leeto" não ocorreu em "leetcode", então retornamos -1.
 
 1 <= haystack.length, needle.length <= 10^4 (10.000)
 
-haystack e needle consistem apenas em caracteres minúsculos do alfabeto inglês.
+`haystack` e `needle` consistem apenas em caracteres minúsculos do alfabeto inglês.
 
 ## Testes
 `haystack` = "morango"
